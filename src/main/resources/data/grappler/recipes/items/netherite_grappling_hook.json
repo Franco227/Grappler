@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "  P",
+        " C ",
+        "C  "
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:chain"
+        },
+        "P": {
+            "item": "minecraft:netherite_pickaxe"
+        }
+    },
+    "result": {
+        "item": "grappler:netherite_grappling_hook",
+        "count": 1
+    },
+    "show_notification": true
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "  P",
+        " C ",
+        "C  "
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:chain"
+        },
+        "P": {
+            "item": "minecraft:diamond_pickaxe"
+        }
+    },
+    "result": {
+        "item": "grappler:diamond_grappling_hook",
+        "count": 1
+    },
+    "show_notification": true
+}
