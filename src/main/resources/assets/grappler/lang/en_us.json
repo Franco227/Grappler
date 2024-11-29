@@ -1,0 +1,11 @@
+{
+    "item.grappler.wooden_grappling_hook": "Wooden Grappling Hook",
+    "item.grappler.stone_grappling_hook": "Stone Grappling Hook",
+    "item.grappler.iron_grappling_hook": "Iron Grappling Hook",
+    "item.grappler.golden_grappling_hook": "Golden Grappling Hook",
+    "item.grappler.diamond_grappling_hook": "Diamond Grappling Hook",
+    "item.grappler.netherite_grappling_hook": "Netherite Grappling Hook",
+    "subtitle.grappler.grappling_hook.launch": "Grappling Hook thrown",
+    "subtitle.grappler.grappling_hook.retrieve": "Grappling Hook retrieved",
+    "subtitle.grappler.grappling_hook.pull": "Grappling Hook pulling"
+}
