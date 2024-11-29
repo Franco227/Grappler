@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "grappler:item/golden_grappling_hook"
+    }
+}
